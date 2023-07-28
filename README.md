@@ -9,12 +9,12 @@
 
 ## Quick Start
 
-Clone the repository `https://github.com/vijayapaltwks/ResearchGPT-POC.git`
+Clone the repository `https://github.com/vijayapaltwks/react-learning.git`
 
 Run the below commands to install the dependencies
 
 ```
-cd ResearchGPT-POC
+cd react-learning
 npm install
 ```
 
